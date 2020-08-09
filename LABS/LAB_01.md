@@ -26,7 +26,7 @@
 ### Remember these labs are for you and your teams to figure out how you can put everthing that you know and learned this week into action! 
 
 
-#### Please be curtious when others are talking 
+#### Please be courteous when others are talking 
 #### If you haven't spoken up in a bit then say something ... Everyone has an opinion and a reason for it.  
 #### Do not be afraid to let people know what's on your mind
 
