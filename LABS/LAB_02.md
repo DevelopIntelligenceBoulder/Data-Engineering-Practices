@@ -1,6 +1,7 @@
 # LAB 2 & 3 
 
 ## This Lab will be Broken over a couple of sessions 
+### The first part will be team work and the second will be presenting and feedback from the other teams
 
 ## We are going to give each group 1-2 of the best practices on the Whitebaord 
 
